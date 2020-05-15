@@ -1,11 +1,8 @@
-import { Router } from "express";
-import tasksRouter from "./tasks.routes"
+import { Router } from 'express';
+import tasksRouter from './tasks.route';
 
-const router = Router()
+const router = Router();
 
+router.use('/tasks', tasksRouter);
 
-
-router.use("/tasks", tasksRouter)
-
-export default router
-
+export default router;
