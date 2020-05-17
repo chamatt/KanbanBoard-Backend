@@ -7,23 +7,23 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/chamatt/tasks-api?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/chamatt/KanbanBoard-Backend?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/matheus-vicente-d-190001b2/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-chamatt-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/chamatt/tasks-api?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/chamatt/KanbanBoard-Backend?color=%23FF9000">
 
-  <a href="https://github.com/chamatt/tasks-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chamatt/tasks-api?color=%23FF9000">
+  <a href="https://github.com/chamatt/KanbanBoard-Backend/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chamatt/KanbanBoard-Backend?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/chamatt/tasks-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/chamatt/tasks-api?color=%23FF9000">
+  <a href="https://github.com/chamatt/KanbanBoard-Backend/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/chamatt/KanbanBoard-Backend?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/chamatt/tasks-api?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/chamatt/KanbanBoard-Backend?color=%23FF9000">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ This REST API provides all the functionality to manage a complete Kaban Board ap
 
 Features project management and task management, with full user authentication.
 
-To see the **front-end client**, built with React, click here: [KanbanBoard](https://github.com/chamatt/tasks-kaban-board)<br />
+To see the **front-end client**, built with React, click here: [KanbanBoard](https://github.com/chamatt/KanbanBoard)<br />
 
 ## 🚀 Technologies
 
@@ -66,7 +66,7 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/chamatt/tasks-api.git && cd tasks-api
+$ git clone https://github.com/chamatt/KanbanBoard-Backend.git && cd tasks-api
 ```
 
 **Follow the steps below**
