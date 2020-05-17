@@ -1,5 +1,5 @@
 <h1 align="center">
-  Tasks API
+  KanbanBoard-Backend
 </h1>
 
 <h3 align="center">
