@@ -48,7 +48,7 @@ Technologies that I used to develop this api
 - [Node.js](https://nodejs.org/en/) [Runtime Environment]
 - [TypeScript](https://www.typescriptlang.org/) [Typesafe Language]
 - [Express](https://expressjs.com/pt-br/) [Web Server]
-- [Prima](https://prisma.io) [ORM]
+- [Prisma](https://prisma.io) [ORM]
 - [JWT-token](https://jwt.io/) [Authentication]
 - [PostgreSQL](https://www.postgresql.org/) [Database]
 - [Date-fns](https://date-fns.org/) [Handling Date]
