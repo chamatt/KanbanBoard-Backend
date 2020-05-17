@@ -39,7 +39,7 @@ This REST API provides all the functionality to manage a complete Kaban Board ap
 
 Features project management and task management, with full user authentication.
 
-To see the **front-end client**, built with React, click here: [KanbanBoard](https://github.com/chamatt/tasks.k-web)<br />
+To see the **front-end client**, built with React, click here: [KanbanBoard](https://github.com/chamatt/tasks-kaban-board)<br />
 
 ## 🚀 Technologies
 
