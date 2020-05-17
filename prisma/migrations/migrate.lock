@@ -4,3 +4,5 @@
 # Read more about conflict resolution here: TODO
 
 20200515202245-create-databae
+20200516200339-add-group-and-order-index
+20200516201839-add-password-field-to-user
